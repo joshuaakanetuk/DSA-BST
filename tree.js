@@ -119,5 +119,7 @@ function compareTrees(arr1, arr2) {
     return true;
 }
 
+
+
 console.log(compareTrees([3,5,4,6,1,0,2], [3,1,5,2,4,6,0]))
 console.log(compareTrees([3,5,4,6,0,2], [3,1,5,2,4,6,0]))
